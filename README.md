@@ -50,5 +50,4 @@ here's the command:
     
 The _-o_ and the _-t_ args are optional. The _-o_ defines the output file name. Basically it's a log-file created by PT, with all the proxies statuses.
 _NOTE: The 'list.txt' MUST be in the same directory as the script, and the proxies must be written with this syntax: IP:PORT, Ex. 127.0.0.1:8080_
-_However, it can be text and spaces between the proxies, and they can also be more than one per line._
 
